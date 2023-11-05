@@ -1,0 +1,4 @@
+LATTICE_LIBRARY = "./mylattices.xml"
+LATTICE = "fully frustrated square lattice"
+L = 4 
+W = 4 
