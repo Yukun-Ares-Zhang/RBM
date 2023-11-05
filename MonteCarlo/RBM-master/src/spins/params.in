@@ -1,7 +1,0 @@
-LATTICE = "square lattice"
-L = 28 
-SWEEPS = 10000000
-NSKIP = 100
-T1 = 2.2691853
-T2 = 2.2691853
-dT = 0.1

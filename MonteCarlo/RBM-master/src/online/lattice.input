@@ -1,4 +1,0 @@
-LATTICE_LIBRARY = "mylattices.xml"
-LATTICE = "square lattice"
-L = 16
-W = 16 

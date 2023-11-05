@@ -1,5 +1,0 @@
-num_hidden =  2 , step =  9118 , KL =  0.5045071452091205
-num_hidden =  4 , step =  828 , KL =  0.4607601199172464
-num_hidden =  6 , step =  1094 , KL =  0.4643532530134302
-num_hidden =  8 , step =  828 , KL =  0.46043488159428403
-num_hidden =  10 , step =  569 , KL =  0.4533473843466074

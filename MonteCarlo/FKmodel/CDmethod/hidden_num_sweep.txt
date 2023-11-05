@@ -1,9 +1,0 @@
-hidden number: 2 , step = 246 , KL =  0.5056790746529893
-hidden number: 4 , step = 521 , KL =  0.23701313127756185
-hidden number: 6 , step = 8540 , KL =  0.10363429061889917
-hidden number: 8 , step = 444 , KL =  0.13800836072291522
-hidden number: 10 , step = 21323 , KL =  0.02197826950479076
-hidden number: 20 , step = 18258 , KL =  0.014121242569220094
-hidden number: 30 , step = 16899 , KL =  0.016182076471291218
-hidden number: 40 , step = 90063 , KL =  0.005562421284074581
-hidden number: 50 , step = 327583 , KL =  0.0007435199078074106

@@ -1,5 +1,0 @@
-*fit RBM from initial data 
-*generate trail , compute aprior probabilities 
-*compute physical weight ratio and do metropolis
-*measure  
-optimize 
